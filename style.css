@@ -14,10 +14,10 @@ body{
     width: 91%;
     height: 90vh;
     background: #2d3d30;
-    animation: animator;
+/*     animation: animator;
     animation-duration: 2s;
     animation-iteration-count: infinite;
-    animation-direction: alternate-reverse;
+    animation-direction: alternate-reverse; */
   }
   #desc{
     margin: auto;
